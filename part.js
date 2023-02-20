@@ -1,4 +1,4 @@
 function main(){
-	console.log("i am a beginner");
+	console.log("ls means to list");
 }
 main();

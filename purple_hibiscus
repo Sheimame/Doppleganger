@@ -6,3 +6,4 @@ cat is the command used to view files
 less is also used to view files afterwhich you press Q to exit
 mv is used when renaming or moving files
 echo is used when creating a file you would like to input a message
+cp is used when trying to copy files
