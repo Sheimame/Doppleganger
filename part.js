@@ -7,6 +7,7 @@ var age = 19
 console.log(age);
 
 console.log(typeof "16");
+
 console.log(30 + 44);
 console.log(30 * 44);
 console.log(Math.random());
